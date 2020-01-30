@@ -1,2 +1,3 @@
-#!/bin/bash
-ls -a -l -id
+ #!/bin/bash
+ ls -a -n
+
