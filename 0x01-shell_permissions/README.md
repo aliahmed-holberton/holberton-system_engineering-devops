@@ -1,0 +1,1 @@
+This Directory Conteins Scripts For Shell Permissions.
