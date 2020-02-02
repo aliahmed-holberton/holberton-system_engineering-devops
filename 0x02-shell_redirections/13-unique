@@ -1,2 +1,2 @@
 #!/bin/bash
-sort --s=WORD < ls | tr -s ' ' '\n' > ls | tr -s ' ' '\n' 
+sort < ls | tr -s ' ' '\n' > ls | tr -s ' ' '\n' 
