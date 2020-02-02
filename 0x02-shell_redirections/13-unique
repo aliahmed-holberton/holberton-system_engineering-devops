@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u | sort -r < ls | tr -s ' ' '\n' > ls | tr -s ' ' '\n' 
+sort | rev < ls | tr -s ' ' '\n' > ls | tr -s ' ' '\n' 
