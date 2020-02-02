@@ -1,2 +1,0 @@
-#!/bin/bash
-cat \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) | tr -cd "[:print:]" > \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
