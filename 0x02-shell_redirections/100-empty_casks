@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -empty -printf
+find ./ -empty | tr "/" "\n" | tail -1  
