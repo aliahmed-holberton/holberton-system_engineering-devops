@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -empty | tr "/" "\n" | tail -1  
+find ./ -empty | cut "/" "\n" | tail -1  
